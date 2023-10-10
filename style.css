@@ -1,0 +1,12 @@
+body {
+    overflow: hidden;
+}
+
+.snowflakeDim {
+    width: 20px;
+    height: auto;
+}
+
+.snowflake {
+    position: absolute;
+}
